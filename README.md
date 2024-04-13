@@ -1,1 +1,2 @@
 # Dialogue-systems-and-question-answering
+This project aims to implement a simple text-based digital assistant that can perform three tasks: providing a weather forecast using OpenWeatherMapAPI, finding a restaurant using GoogleMapsAPI, and finding the next tram/bus using the VasttrafikAPI. The data here is randomly selected. It is not possible to fully solve all the challenges involved in designing a digital assistant within the scope of this project.
